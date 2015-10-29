@@ -1,0 +1,86 @@
+/* 
+  Localizable.strings
+  Go App_itri
+
+  Created by Madhawan Misra on 8/26/15.
+  Copyright (c) 2015 Madhawan Misra. All rights reserved.
+*/
+"wrong ssid"="錯誤 SSID";
+"error_ssid"="沒有連上正確的Y5Bus SSID, 請重新確定Wi-Fi SSID!!";
+"ok"="Ok";
+"error_ssid_still"="仍然沒有連上正確的Y5 Bus SSID, 請再次確認Wi-Fi SSID!!";
+"error_login"="登入失敗";
+"error_google_desc"="請關掉APP重新登入，或是使用其他方式登入";
+"error_login_google"="Google+登入失敗";
+"error_internet"="請確認是否連上網路";
+"error_internet2"="請確認網路連線狀態";
+"error_router"="路由器尚未註冊";
+"relogin"="請重新登入";
+"relogin_desc"="請重新登入";
+"three_times"="已經超過免費網路使用次數限制，請登入";
+"temp_login_failed"="系統問題，請稍後再重試";
+"like"="Like";
+"like_desc"="請幫我們的粉絲專業按讚";
+"skip"="Skip";
+"logged_in"="已經登入";
+"error"="錯誤";
+"Logged_in_desc"="正確登入，系統將會導向專區";
+"we_chat_error"="尚未安裝WeChat，請安裝後再進行登入動作";
+"empty_username"="使用者名稱/密碼不可以為空白";
+"number_act"="手機號碼已通過認證，可以使用手機號碼做登入";
+"act"=" 手機認證已完成";
+"reg_error"="手機號碼尚未註冊過，請註冊";
+"act_fail"="認證失敗，請確認您的認證碼";
+"check_key"="請確認簡訊的Y5Bus註冊認證碼";
+"resent"="認證碼已重新寄送";
+"act_done"="e-mail認證已完成，請直接登入";
+"resent_desc"="已重送驗證碼，煩請重新確認";
+"login_desc2"= "請到主頁登入";
+"please_log"="請登入";
+"connect"="請連上網路";
+"checkpin"="認證碼已用簡訊傳給您";
+"pinnull"="認證碼不可以為空白!!";
+"login_method"="如果您要換修改密碼的功能，你一定要用您的手機/email登入";
+"check_email"="請收e-mail";
+"check_email_pwd"="新密碼已經寄送到您的e-mail";
+"check_phone"="請收簡訊";
+"check_phone_pwd"="驗證碼已用簡訊寄送給您";
+"acct_err"="無效的帳戶";
+"reg_fail"="登入失敗,你已經註冊過了.如果您忘記密碼,請可以用 \”忘記密碼\“";
+"reg_succ"="登入成功";
+"con_phone"="請確認您的簡訊";
+"con_email"="請確認您的e-mail";
+"emptyerror"="e-mail/手機號碼 請擇一填寫";
+"charerror"="密碼最少8碼";
+"passmatch"="password和confirm password要相同";
+"email_empty"=" e-mail/手機號碼不可以空白";
+"success"="success";
+"coupon"="專區";
+"regis"="註冊";
+"forgot"="忘記密碼";
+"mine"="我的";
+"confirm_code"="認證碼確認";
+"desktop"="桌面";
+"change_pwd"="修改密碼";
+"updatedone"="密碼已更新,請登入";
+"updatefail"="請再重試一次";
+"success"="成功";
+"fblogin"="你使用fb登入";
+"glogin"="你使用google登入";
+"selflogin"="你使用email/手機登入";
+"fblogins"="你使用fb登入";
+"glogins"="你使用google登入";
+"selflogins"="你使用email/手機登入";
+"fb_desc"="您使用FACEBOOK帳號登入本服務,如果要登出請到\"我的\"並點擊登出按鈕";
+"g_desc"="您使用GOOGLE帳號登入本服務,如果要登出請到\"我的\"並點擊登出按鈕";
+"self_desc"="您使用自己的帳號登入本服務,如果要登出請到\"我的\"並點擊登出按鈕";
+"please_login"="請登入";
+"male"="男生";
+"female"="女生";
+"aboutus"="關於我們";
+"error_threeg"="您使用你的自己的3G/4G, 請開您的Wi-Fi和連結\"Y5Bus\" SSID";
+"whyneedregister"="不害意思，你已經可以上網，所以不要註冊";
+"unknown"="不明，後端問題";
+"error_range"="請檢查您的連接，並確保路由器在範圍之內";
+"logout"="登出";
+"logout_desc"="你登出過了";

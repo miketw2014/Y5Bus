@@ -1,0 +1,264 @@
+
+/* Class = "UITextField"; placeholder = "請再一次輸入密碼"; ObjectID = "03q-Cj-oup"; */
+"03q-Cj-oup.placeholder" = "請再一次輸入密碼";
+
+/* Class = "UILabel"; text = "Account"; ObjectID = "1Pr-yz-oo9"; */
+"1Pr-yz-oo9.text" = "Account";
+
+/* Class = "UITabBarItem"; title = "Desktop"; ObjectID = "1h6-Hz-gPz"; */
+"1h6-Hz-gPz.title" = "Desktop";
+
+/* Class = "UINavigationController"; title = "Go App"; ObjectID = "1io-R1-8Pb"; */
+"1io-R1-8Pb.title" = "Go App";
+
+/* Class = "UILabel"; text = "to generate a new password for your phone/email"; ObjectID = "45l-oL-LwR"; */
+"45l-oL-LwR.text" = "to generate a new password for your phone/email";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "5us-5M-lEU"; */
+"5us-5M-lEU.placeholder" = "Confirm Password";
+
+/* Class = "UITextField"; placeholder = "Enter New password"; ObjectID = "79r-DF-JYX"; */
+"79r-DF-JYX.placeholder" = "Enter New password";
+
+/* Class = "UITextField"; placeholder = "Please enter the code received"; ObjectID = "7pH-mo-4MH"; */
+"7pH-mo-4MH.placeholder" = "Please enter the code received";
+
+/* Class = "UILabel"; text = "登出"; ObjectID = "83H-Qe-4BX"; */
+"83H-Qe-4BX.text" = "登出";
+
+/* Class = "UILabel"; text = "logintype"; ObjectID = "BZg-Dl-T2L"; */
+"BZg-Dl-T2L.text" = "logintype";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "CC8-2P-Gms"; */
+"CC8-2P-Gms.normalTitle" = "Register";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "CGB-NF-5cA"; */
+"CGB-NF-5cA.text" = "Label";
+
+/* Class = "UIButton"; highlightedTitle = "Google +"; ObjectID = "Cn6-S6-6P5"; */
+"Cn6-S6-6P5.highlightedTitle" = "Google +";
+
+/* Class = "UIButton"; normalTitle = "Google+"; ObjectID = "Cn6-S6-6P5"; */
+"Cn6-S6-6P5.normalTitle" = "Google+";
+
+/* Class = "UIButton"; selectedTitle = "Google +"; ObjectID = "Cn6-S6-6P5"; */
+"Cn6-S6-6P5.selectedTitle" = "Google +";
+
+/* Class = "UIButton"; highlightedTitle = "確定"; ObjectID = "CtU-Ob-fbP"; */
+"CtU-Ob-fbP.highlightedTitle" = "確定";
+
+/* Class = "UIButton"; normalTitle = "確定"; ObjectID = "CtU-Ob-fbP"; */
+"CtU-Ob-fbP.normalTitle" = "確定";
+
+/* Class = "UIButton"; selectedTitle = "確定"; ObjectID = "CtU-Ob-fbP"; */
+"CtU-Ob-fbP.selectedTitle" = "確定";
+
+/* Class = "UILabel"; text = " status"; ObjectID = "EPQ-na-ocH"; */
+"EPQ-na-ocH.text" = " status";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "GRj-y7-yDK"; */
+"GRj-y7-yDK.text" = "Password";
+
+/* Class = "UITextField"; placeholder = "台中"; ObjectID = "GjM-PJ-qHd"; */
+"GjM-PJ-qHd.placeholder" = "台中";
+
+/* Class = "UILabel"; text = "Not received the Authentication code? "; ObjectID = "Gsi-pf-2Rp"; */
+"Gsi-pf-2Rp.text" = "Not received the Authentication code? ";
+
+/* Class = "UILabel"; text = "New Password"; ObjectID = "H1M-UV-hYE"; */
+"H1M-UV-hYE.text" = "New Password";
+
+/* Class = "UILabel"; text = "Cell phone can be used for registration to enjoy free High speed Wi-fi"; ObjectID = "Jo0-Wf-QAh"; */
+"Jo0-Wf-QAh.text" = "Cell phone can be used for registration to enjoy free High speed Wi-fi";
+
+/* Class = "UILabel"; text = "Log-in"; ObjectID = "L9V-a0-n22"; */
+"L9V-a0-n22.text" = "Log-in";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "LFb-IU-rbb"; */
+"LFb-IU-rbb.title" = "Settings";
+
+/* Class = "UITabBarItem"; title = "Coupon"; ObjectID = "MiH-c2-ugC"; */
+"MiH-c2-ugC.title" = "Coupon";
+
+/* Class = "UITextField"; placeholder = "password"; ObjectID = "Oja-wp-OOp"; */
+"Oja-wp-OOp.placeholder" = "password";
+
+/* Class = "UIButton"; highlightedTitle = "重發認證碼"; ObjectID = "PFX-2t-raN"; */
+"PFX-2t-raN.highlightedTitle" = "重發認證碼";
+
+/* Class = "UIButton"; normalTitle = "Resend Code"; ObjectID = "PFX-2t-raN"; */
+"PFX-2t-raN.normalTitle" = "Resend Code";
+
+/* Class = "UIButton"; selectedTitle = "重發認證碼"; ObjectID = "PFX-2t-raN"; */
+"PFX-2t-raN.selectedTitle" = "重發認證碼";
+
+/* Class = "UILabel"; text = "Female"; ObjectID = "PFb-t0-sEf"; */
+"PFb-t0-sEf.text" = "Female";
+
+/* Class = "UITextField"; placeholder = "Enter the received code"; ObjectID = "QaO-tT-1XN"; */
+"QaO-tT-1XN.placeholder" = "Enter the received code";
+
+/* Class = "UILabel"; text = "Register to enjoy more services"; ObjectID = "SXz-mY-Dqq"; */
+"SXz-mY-Dqq.text" = "Register to enjoy more services";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password"; ObjectID = "UEb-5w-WPv"; */
+"UEb-5w-WPv.normalTitle" = "Forgot Password";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "UlB-5B-D8L"; */
+"UlB-5B-D8L.text" = "Label";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "V38-Tn-iUe"; */
+"V38-Tn-iUe.text" = "Password";
+
+/* Class = "UIButton"; highlightedTitle = "Facebook"; ObjectID = "VB7-SF-ZLe"; */
+"VB7-SF-ZLe.highlightedTitle" = "Facebook";
+
+/* Class = "UIButton"; normalTitle = "Facebook"; ObjectID = "VB7-SF-ZLe"; */
+"VB7-SF-ZLe.normalTitle" = "Facebook";
+
+/* Class = "UIButton"; selectedTitle = "Facebook"; ObjectID = "VB7-SF-ZLe"; */
+"VB7-SF-ZLe.selectedTitle" = "Facebook";
+
+/* Class = "UILabel"; text = "Email/Phone"; ObjectID = "Wod-bh-cD9"; */
+"Wod-bh-cD9.text" = "Email/Phone";
+
+/* Class = "UILabel"; text = "Confirm Password"; ObjectID = "Wqd-aE-N6A"; */
+"Wqd-aE-N6A.text" = "Confirm Password";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "XKJ-UM-iea"; */
+"XKJ-UM-iea.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Please enter your account id"; ObjectID = "XOi-j7-Tr4"; */
+"XOi-j7-Tr4.placeholder" = "Please enter your account id";
+
+/* Class = "UILabel"; text = "密碼"; ObjectID = "Y9u-Fg-UdR"; */
+"Y9u-Fg-UdR.text" = "密碼";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "YAJ-Om-GwO"; */
+"YAJ-Om-GwO.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "YQA-f7-0nD"; */
+"YQA-f7-0nD.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Start"; ObjectID = "Z55-sm-XXt"; */
+"Z55-sm-XXt.normalTitle" = "Start";
+
+/* Class = "UILabel"; text = "修改密碼"; ObjectID = "b3T-2D-six"; */
+"b3T-2D-six.text" = "修改密碼";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "b4R-2O-OCH"; */
+"b4R-2O-OCH.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "b69-mK-ejk"; */
+"b69-mK-ejk.text" = "Gender";
+
+/* Class = "UILabel"; text = "Code"; ObjectID = "bLK-9U-b3f"; */
+"bLK-9U-b3f.text" = "Code";
+
+/* Class = "UILabel"; text = "Please confirm "; ObjectID = "bo1-ys-4JA"; */
+"bo1-ys-4JA.text" = "Please confirm ";
+
+/* Class = "UILabel"; text = "如果你在車上，請登入"; ObjectID = "cdS-cm-GKl"; */
+"cdS-cm-GKl.text" = "如果你在車上，請登入";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "d0O-mu-cw7"; */
+"d0O-mu-cw7.title" = "Home";
+
+/* Class = "UILabel"; text = "Authetication Code has been sent "; ObjectID = "eWr-vj-rOE"; */
+"eWr-vj-rOE.text" = "Authetication Code has been sent ";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "eYX-OW-UiD"; */
+"eYX-OW-UiD.placeholder" = "Confirm Password";
+
+/* Class = "UILabel"; text = "Email/Phone no"; ObjectID = "f5B-78-pM1"; */
+"f5B-78-pM1.text" = "Email/Phone no";
+
+/* Class = "UILabel"; text = "Register"; ObjectID = "fgf-Bs-Q5R"; */
+"fgf-Bs-Q5R.text" = "Register";
+
+/* Class = "UILabel"; text = "Destination"; ObjectID = "fvj-TR-RjI"; */
+"fvj-TR-RjI.text" = "Destination";
+
+/* Class = "UIButton"; normalTitle = "Update"; ObjectID = "gam-9u-Whb"; */
+"gam-9u-Whb.normalTitle" = "Update";
+
+/* Class = "UIButton"; highlightedTitle = "確定"; ObjectID = "gyf-S6-hxo"; */
+"gyf-S6-hxo.highlightedTitle" = "確定";
+
+/* Class = "UIButton"; normalTitle = "Confirm"; ObjectID = "gyf-S6-hxo"; */
+"gyf-S6-hxo.normalTitle" = "Confirm";
+
+/* Class = "UIButton"; selectedTitle = "確定"; ObjectID = "gyf-S6-hxo"; */
+"gyf-S6-hxo.selectedTitle" = "確定";
+
+/* Class = "UITextField"; placeholder = "Please Enter email/phone"; ObjectID = "ieJ-1Z-hhk"; */
+"ieJ-1Z-hhk.placeholder" = "Please Enter email/phone";
+
+/* Class = "UILabel"; text = "Loading"; ObjectID = "k8e-LY-NP2"; */
+"k8e-LY-NP2.text" = "Loading";
+
+/* Class = "UILabel"; text = "Code"; ObjectID = "kmj-AB-YHh"; */
+"kmj-AB-YHh.text" = "Code";
+
+/* Class = "UIButton"; highlightedTitle = "WeChat"; ObjectID = "l90-ly-Ujr"; */
+"l90-ly-Ujr.highlightedTitle" = "WeChat";
+
+/* Class = "UIButton"; normalTitle = "WeChat"; ObjectID = "l90-ly-Ujr"; */
+"l90-ly-Ujr.normalTitle" = "WeChat";
+
+/* Class = "UIButton"; selectedTitle = "WeChat"; ObjectID = "l90-ly-Ujr"; */
+"l90-ly-Ujr.selectedTitle" = "WeChat";
+
+/* Class = "UILabel"; text = "Confirm "; ObjectID = "mJL-Ce-Uo5"; */
+"mJL-Ce-Uo5.text" = "Confirm ";
+
+/* Class = "UITabBarItem"; title = "Explore"; ObjectID = "mNW-W3-gjm"; */
+"mNW-W3-gjm.title" = "Explore";
+
+/* Class = "UILabel"; text = "If you forget password, please use the 'Reset password' "; ObjectID = "oV9-Vo-vtB"; */
+"oV9-Vo-vtB.text" = "If you forget password, please use the 'Reset password' ";
+
+/* Class = "UILabel"; text = "name"; ObjectID = "pJa-q2-vr6"; */
+"pJa-q2-vr6.text" = "name";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "pWu-41-vKm"; */
+"pWu-41-vKm.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "台北"; ObjectID = "pg7-tV-QOX"; */
+"pg7-tV-QOX.placeholder" = "台北";
+
+/* Class = "UILabel"; text = "Male"; ObjectID = "qNh-aB-SPn"; */
+"qNh-aB-SPn.text" = "Male";
+
+/* Class = "UITextField"; placeholder = "Birthday"; ObjectID = "qaL-dH-u5G"; */
+"qaL-dH-u5G.placeholder" = "Birthday";
+
+/* Class = "UINavigationItem"; title = "Welcome"; ObjectID = "qu2-yz-Zmn"; */
+"qu2-yz-Zmn.title" = "Welcome";
+
+/* Class = "UITextField"; placeholder = "請輸入新密碼"; ObjectID = "r6u-oa-cpg"; */
+"r6u-oa-cpg.placeholder" = "請輸入新密碼";
+
+/* Class = "UITextField"; placeholder = "email/Phone"; ObjectID = "rY0-ko-4kc"; */
+"rY0-ko-4kc.placeholder" = "email/Phone";
+
+/* Class = "UILabel"; text = "Press the resend button"; ObjectID = "tHd-xg-F8X"; */
+"tHd-xg-F8X.text" = "Press the resend button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tmm-1B-K2y"; */
+"tmm-1B-K2y.text" = "Label";
+
+/* Class = "UILabel"; text = "如果你在車上，請登入"; ObjectID = "v71-xN-mdt"; */
+"v71-xN-mdt.text" = "如果你在車上，請登入";
+
+/* Class = "UILabel"; text = "Start"; ObjectID = "wNS-Ef-PC5"; */
+"wNS-Ef-PC5.text" = "Start";
+
+/* Class = "UILabel"; text = "Reset Password"; ObjectID = "wbM-WO-sCZ"; */
+"wbM-WO-sCZ.text" = "Reset Password";
+
+/* Class = "UILabel"; text = "確認密碼"; ObjectID = "xA9-2b-cCw"; */
+"xA9-2b-cCw.text" = "確認密碼";
+
+/* Class = "UILabel"; text = "聯絡我們"; ObjectID = "zAA-jM-V0n"; */
+"zAA-jM-V0n.text" = "聯絡我們";

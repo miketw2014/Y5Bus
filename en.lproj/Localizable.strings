@@ -1,0 +1,87 @@
+/* 
+  Localizable.strings
+  Go App_itri
+
+  Created by Madhawan Misra on 8/26/15.
+  Copyright (c) 2015 Madhawan Misra. All rights reserved.
+*/
+
+"wrong ssid"="Wrong SSID";
+"error_ssid"="You are not connected to the Y5 Bus SSID, please check wifi SSID!!";
+"ok"="Ok";
+"error_ssid_still"="You are still not connected to the Y5 Bus SSID, please check wifi SSID!!";
+"error_login"="Login Failed";
+"error_google_desc"="Internal error, please retry or try other login methods";
+"error_login_google"="Google Plus login failed";
+"error"="Error";
+"error_internet"="Please check if connected to internet";
+"error_internet2"="Please check if you have internet connectivity";
+"error_router"="Router not Registered";
+"relogin"="Re-login";
+"relogin_desc"="Please re-login to your account";
+"three_times"="You have exceeded the free login limit";
+"temp_login_failed"="Temporary login failed";
+"like"="Like";
+"like_desc"="Please like our FB page by clicking the Like button below";
+"skip"="Skip";
+"logged_in"="Log-in Successful";
+"Logged_in_desc"="You have logged in, ENJOY FREE WIFI. You would be taken to the Offers page";
+"we_chat_error"="WeChat is not installed,Kindly install and login to continue";
+"empty_username"="Username/Password field can not be Empty";
+"number_act"="Phone Number has been activated,Kindly Log-in";
+"act"="Activation successful";
+"reg_error"="Phone number not yet registered,kindly register first";
+"act_fail"="Activation failed, Please check your Code again";
+"check_key"="Check Activation Key on phone";
+"resent"="Resent";
+"act_done"="Account is already activated, kindly directly Log-in";
+"resent_desc"="Code has been re-sent, please check";
+"login_desc2"= "Please go to Homescreen and log-in!!";
+"please_log"="Please Login";
+"connect"="Either connect to internet or if in bus, login !!";
+"checkpin"="Check pin";
+"pinnull"="Pin can't be null!!";
+"login_method"="Use phone/email loginmethod";
+"check_email"="Check Email";
+"check_email_pwd"="Please check email for new password!!";
+"check_phone"="Check Phone";
+"check_phone_pwd"="Please check SMS for new password!!";
+"acct_err"="Account not found!!";
+"reg_fail"="Registration failed, Account already exists.Please use \" ForgotPassword\" to reset password";
+"reg_succ"="Registration successfull";
+"con_phone"="Please confirm by checking SMS on phone!!";
+"con_email"="Please confirm by checking your email!!";
+"emptyerror"="E-mail/phone can't be empty!!";
+"charerror"="Password must be at least 8 characters!!";
+"passmatch"="Password and confirm password must be same!!";
+"email_empty"="Email field can't be empty";
+"success"="success";
+"fblogin"="You are using Facebook login";
+"glogin"="You are using google + login";
+"selflogin"="You are using email/phone";
+"fblogins"="You are using Facebook";
+"glogins"="You are using google +";
+"selflogins"="You are using email/phone";
+"fb_desc"="You are using Facebook, To logout, go to settings tab";
+"g_desc"="You are using Google account, To logout, go to settings tab";
+"self_desc"="You are using personal account , To logout, go to settings tab";
+"please_login"="Please Login";
+"coupon"="Offers";
+"regis"="Register";
+"forgot"="Forgot Password";
+"mine"="Settings";
+"confirm_code"="Confirm code";
+"desktop"="Desktop";
+"change_pwd"="Change Password";
+"updatedone"="Password has been updated, Kindly log-in";
+"updatefail"="Password can not change, Please re-try";
+"male"="Male";
+"female"="Female";
+"aboutus"="About Us";
+"error_threeg"="You are using mobile data, Please switch to Wifi and select \"Y5Bus\" SSID";
+"whyneedregister"="You can already enjoy Free-Wifi, Hence, No need to register.";
+"unknown"="unknown,server error";
+"error_range"="Please check your connection and make sure you router is within range";
+"logout"="Logged out";
+"logout_desc"="You have successfuly logged out";
+
